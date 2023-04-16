@@ -7,6 +7,8 @@ for my daily workflow and be adaptable to new computers. It is to be built with 
 Performance is considered a primary goal, as is safety and reliability. 
 
 # Concrete Feature list
+- knowledge based
+- markdown ed
 - automatic syncing
 - automatic, configurable backups
 - config files(human readable)
@@ -55,3 +57,6 @@ Performance is considered a primary goal, as is safety and reliability.
 
 # Miscelaneous:
 proper build system,learn rust, use more vim, add more snippets, use multiple languages for fun
+
+# Immediate Goals
+- 
